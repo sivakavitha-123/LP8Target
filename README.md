@@ -8,5 +8,5 @@ Upskilling_Project
 ## Day 1  Completed 
 1.Fixed Syntax ----Done
 2.created Day100Ps.java with student details ---Done.
-3.underStood Class Vs Object Concept.----Done.
+3.Completed Variables and literals ---done.
 
