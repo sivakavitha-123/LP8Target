@@ -14,7 +14,6 @@ public class Largestnumber()
     System.out.println("Largest number is "+ b);
     }
 /*************using Terninary method ************/
-
 boolean res = (a>b)? a:b
 if(res==true)
   {
